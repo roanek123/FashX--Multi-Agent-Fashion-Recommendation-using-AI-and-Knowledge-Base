@@ -16,7 +16,7 @@ FASHX is an end-to-end, AI-driven fashion recommendation system designed to deli
 (For any issues for running this system in your system, please refer to the REQUIREMENTS -PROJECT.txt)
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/roanek123/FashX--Multi-Agent-Fashion-Recommendation-using-AI-and-Knwledge-Base/blob/main/GRADIO%20PAGE.png)
 
 
 ## 🔍 Features
