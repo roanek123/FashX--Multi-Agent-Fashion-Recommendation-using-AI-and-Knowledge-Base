@@ -1,5 +1,5 @@
 
-## 👔FashX: Multi-Agent AI for Personalized Fashion Assistance with Graph Intelligence
+# 👔FashX: Multi-Agent AI for Personalized Fashion Assistance with Graph Intelligence
 
 FASHX is an end-to-end, AI-driven fashion recommendation system designed to deliver highly personalized item suggestions by blending graph analytics, deep embedding similarity, and real-time trend analysis. At its core, FASHX stores **Users**, **Items**, and their **Interactions** in a Neo4j graph database, allowing us to capture complex relationships such as co-purchases and user behavior pathways.  
 
@@ -26,7 +26,7 @@ Our system provides a variety of novel feautures, focusing on acheiving accurate
    - Nodes for `User`, `Item` and Relationships `INTERACTED_WITH`, `BOUGHT_TOGETHER`  
    - Uniqueness constraints and indexes ensure data integrity and query performance  
    - Leverages APOC procedures and GDS algorithms for community detection, node embeddings, and path analysis
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/roanek123/FashX--Multi-Agent-Fashion-Recommendation-using-AI-and-Knowledge-Base/blob/main/new%20graph%20diagram.png?raw=true)
   
 
 2. **Embeddings Support**  
