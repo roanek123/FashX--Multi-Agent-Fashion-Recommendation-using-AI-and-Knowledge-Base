@@ -119,7 +119,7 @@ dbms.security.procedures.allowlist=apoc.coll.*,apoc.load.*,gds.*
 
 ### Step 3. Data Loading
 
-Place the following CSV files in the `import/` folder of your Neo4j installation: (PRESENT IN THE NEO4J CSV FOLDER)
+Place the following CSV files in the `import/` folder of your Neo4j installation: (PRESENT IN THE NEO4J CSV, NEO4J_CSV-2.ZIP, NEO4J_CSV-3.ZIP FOLDERS)
 - `articles_filtered.csv`
 - `customers_filtered.csv`
 - `transactions_filtered.csv`
