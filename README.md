@@ -11,7 +11,7 @@ FASHX is an end-to-end, AI-driven fashion recommendation system designed to deli
 
 
 - **Conversational Multi-Agent Interface**  
-  A Llama 3 8B–powered agent provides a natural language “front-end” for your recommendation graph. Ask questions like “What new summer tops does Anna (age 28) like?” or “Show me outfits similar to Item #12345,” and the agent orchestrates graph queries, embedding retrieval, and trend insights to deliver coherent, actionable responses.
+  A powerfull LLM <here, Llama 3 8B>–powered agent provides a natural language “front-end” for your recommendation graph. Ask questions like “What new summer tops does Anna (age 28) like?” or “Show me outfits similar to Item #12345,” and the agent orchestrates graph queries, embedding retrieval, and trend insights to deliver coherent, actionable responses.
 
 (For any issues for running this system in your system, please refer to the REQUIREMENTS -PROJECT.txt)
 ## Screenshots
